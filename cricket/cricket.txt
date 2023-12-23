@@ -1,0 +1,4 @@
+bat 
+ball
+stump
+gloves
